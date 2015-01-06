@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pat Welch\'s River Levels</string>
+    <string name="title_section1">Arizona</string>
+    <string name="title_section2">California</string>
+    <string name="title_section3">Colorado</string>
+    <string name="title_section4">Idaho</string>
+    <string name="title_section5">Kansas</string>
+    <string name="title_section6">Montana</string>
+    <string name="title_section7">Nevada</string>
+    <string name="title_section8">Oregon</string>
+    <string name="title_section9">Utah</string>
+    <string name="title_section10">Washington</string>
+    <string name="title_section11">Wyoming</string>
+    <string name="arizona_web_address">http://levels.wkcc.org/?P=Arizona.html</string>
+    <string name="california_web_address">http://levels.wkcc.org/?P=California.html</string>
+    <string name="colorado_web_address">http://levels.wkcc.org/?P=Colorado.html</string>
+    <string name="idaho_web_address">http://levels.wkcc.org/?P=Idaho.html</string>
+    <string name="kansas_web_address">http://levels.wkcc.org/?P=Kansas.html</string>
+    <string name="montana_web_address">http://levels.wkcc.org/?P=Montana.html</string>
+    <string name="nevada_web_address">http://levels.wkcc.org/?P=Nevada.html</string>
+    <string name="oregon_web_address">http://levels.wkcc.org/?P=Oregon.html</string>
+    <string name="utah_web_address">http://levels.wkcc.org/?P=Utah.html</string>
+    <string name="washington_web_address">http://levels.wkcc.org/?P=Washington.html</string>
+    <string name="wyoming_web_address">http://levels.wkcc.org/?P=Wyoming.html</string>
+    <string name="AlertDialog_button">OK</string>
+    <string name="info_message_title">Info Source</string>
+    <string name="http_levels_wkcc_org_p_oregon_text">http://levels.wkcc.org/?P=Oregon.text</string>
+    <string name="info_message">All information is from Pat Welch\'s Kayaking and Whitewater Information Page - http://levels.wkcc.org/kayak.html</string>
+
+
+</resources>
